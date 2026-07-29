@@ -1,3 +1,5 @@
+package com.example.SuperTissu.RestController;
+
 import com.example.SuperTissu.Entity.Tissu;
 import com.example.SuperTissu.Service.TissuService;
 import org.springframework.beans.factory.annotation.Autowired;

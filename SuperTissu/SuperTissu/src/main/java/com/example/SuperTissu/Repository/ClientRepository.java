@@ -1,0 +1,8 @@
+package com.example.SuperTissu.Repository;
+
+import com.example.SuperTissu.Entity.Client;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface ClientRepository extends JpaRepository<Client, Long> {
+
+}

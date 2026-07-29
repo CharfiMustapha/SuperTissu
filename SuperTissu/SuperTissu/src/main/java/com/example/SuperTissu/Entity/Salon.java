@@ -12,7 +12,6 @@ public class Salon {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long idSalon;
 
-
     private String nomSalon;
 
     private String nomClient;
